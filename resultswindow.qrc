@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ResultsWindow.jpg</file>
+  </qresource>
+</RCC>
